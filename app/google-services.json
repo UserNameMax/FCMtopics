@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399803571284",
+    "project_id": "fcm-topics-9313c",
+    "storage_bucket": "fcm-topics-9313c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399803571284:android:19ebe405021a8d7f19e1c1",
+        "android_client_info": {
+          "package_name": "ru.mishenko.maksim.fcmtopics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399803571284-fremgtv8evumqvglvu1nf696fuvutved.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvkdz8_hxudifNQLo15ivi8DNphP-Lq9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399803571284-fremgtv8evumqvglvu1nf696fuvutved.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
